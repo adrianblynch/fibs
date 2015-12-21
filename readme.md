@@ -22,3 +22,8 @@ fibs.fib2(5) // [ 1, 1, 2, 3, 5 ]
 ## Notes
 
 - This isn't really for use, it's more of an exercise for the brain.
+
+## Todo
+
+- Implement fib3() using a generator
+- Allow the sequence to start at 0

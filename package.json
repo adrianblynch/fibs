@@ -1,0 +1,15 @@
+{
+  "name": "fibs",
+  "version": "0.0.1",
+  "description": "Various Fibonacci implementations",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adrianblynch/fibs"
+  },
+  "author": "Adrian Lynch (adi_ady_ade@hotmail.com)",
+  "license": "MIT"
+}

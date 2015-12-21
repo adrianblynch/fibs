@@ -14,6 +14,26 @@ function fib1(length) {
 
 }
 
+function fib2(length) {
+
+	function fib(n) {
+		if (n < 2) {
+			return 1
+		}
+		return fib(n - 1) + fib(n - 2)
+	}
+
+	let seq = []
+
+	for (let i = 0; i < length; i++) {
+		seq.push(fib(i))
+	}
+
+	return seq
+
+}
+
 module.exports = {
-	fib1: fib1
+	fib1: fib1,
+	fib2: fib2
 }

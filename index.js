@@ -33,6 +33,12 @@ function fib2(length) {
 
 }
 
+function fib3(length) {
+
+	// TODO: Implement using generators
+
+}
+
 module.exports = {
 	fib1: fib1,
 	fib2: fib2

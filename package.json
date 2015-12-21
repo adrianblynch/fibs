@@ -1,6 +1,6 @@
 {
   "name": "fibs",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Various Fibonacci implementations",
   "main": "index.js",
   "scripts": {
